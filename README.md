@@ -1,13 +1,13 @@
-# Hi there, I'm Mudit Garg 👋
+# Hi there, I'm Mudit Garg 
 
-I'm a Computer Science Engineering student with a passion for building scalable full-stack applications and exploring the intersection of AI and software engineering.
+I'm a Computer Science Engineering student with a passion for building scalable backend applications and exploring the intersection of AI and software engineering.
 
-## 🚀 About Me
+##  About Me
 
-- 🎓 Currently pursuing B.Tech in Computer Science Engineering 
-- 💻 Full-stack developer with expertise in building production-grade web applications
+-  Currently pursuing B.Tech in Computer Science Engineering 
+-  Backend developer with expertise in building production-grade scalable applications
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages:** JavaScript, TypeScript, Python, Java
 
