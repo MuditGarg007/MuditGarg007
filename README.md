@@ -23,6 +23,7 @@ I'm a Computer Science Engineering student with a passion for building scalable 
 
 ## 📫 Get in Touch
 
+- Portfolio: [muditgarg.xyz](https://www.muditgarg.xyz)
 - Email: muditgarg.456@gmail.com
 - LinkedIn: [mudditgarg](https://www.linkedin.com/in/mudditgarg/)
 - GitHub: [@MuditGarg007](https://github.com/MuditGarg007)
