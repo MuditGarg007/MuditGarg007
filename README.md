@@ -23,7 +23,7 @@ Backend engineer who designs and ships production-grade, scalable systems end to
 ## Achievements
 
 - **LeetCode:** 330+ problems solved, Knight badge, contest rating 1,955 (top 3.37%)
-- **Hackathons:** 4th / 1,200+ teams (Mind Installers), Top 25 / 2,500+ (HackXtreme), Top 15 / 800+ (Hackstasy), Top 15 / 850+ (HackFormers)
+- **Hackathons:** 4th / 1,200+ participants (Mind Installers), Top 25 / 2,500+ (HackXtreme), Top 15 / 800+ (Hackstasy), Top 15 / 850+ (HackFormers)
 - **HackerRank:** 5-star Gold in Python and Java
 - **Certifications:** NVIDIA Fundamentals of Deep Learning · Google Cybersecurity Professional · Anthropic Claude Code 101
 
